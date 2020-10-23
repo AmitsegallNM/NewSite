@@ -6,7 +6,7 @@ section_title: Medicine
 title: Touch object post-mortem tools
 page_rank: 6
 stop_id: 6
-audio_file: /A_1 Post Mortem tools.mp3
+audio_file: A_1 Post Mortem tools.mp3
 hero_images:
  - path: Medicine_touch_pmt.jpg
    alt_text: skull chisel and rib shears. Pathologists tools collected from the Department of cellular Pathology at the John Radcliffe Hospital, 2016. © The Board of Trustees of the Science Museum
